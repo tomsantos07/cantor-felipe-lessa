@@ -1,0 +1,66 @@
+
+#banner {
+  width: 25%;
+}
+
+.main {
+  width: auto;
+  background: linear-gradient(#00033f,#01021b);
+  /* background: #0d0c35; */
+  padding: 30px;
+}
+
+.central-title {
+  padding-left: 20px;
+  text-align: center;
+  color: rgb(141, 128, 128);
+}
+
+p {
+  text-align: center;
+  color: rgb(141, 128, 128);
+}
+
+#mission {
+  font-size: 20px;
+}
+
+em strong {
+  color: rgb(150, 35, 35);
+}
+
+.itens {
+  font-style: italic;
+}
+
+.benefits {
+  background-color: black;
+  padding: 20px;
+}
+
+ul {
+  display: flex;
+  gap: 8px;
+}
+
+ul li {
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.image-benefits {
+  width: 50%;
+}
+
+.mapa {
+  padding: 3em 0;
+  background: linear-gradient(#FEFEFE, #0f0e0e);
+}
+
+.mapa-p-color {
+  color: black;
+  font-weight: bold;
+}
