@@ -159,6 +159,10 @@ footer img {
     width: auto;
   }
 
+  .banner {
+    display: none;
+  }
+
   h1 {
     text-align: center;
   }
@@ -175,6 +179,10 @@ footer img {
 @media screen and (max-width: 768px) {
   .caixa, .main, .conteudo-beneficios, .mapa-conteudo, .video {
     width: auto;
+  }
+
+  .banner {
+    display: none;
   }
 
   h1 {
@@ -195,6 +203,10 @@ footer img {
     width: auto;
     /* margin: 0; */
     margin-right: 6em;
+  }
+
+  .banner {
+    display: none;
   }
 
   /* header img {
